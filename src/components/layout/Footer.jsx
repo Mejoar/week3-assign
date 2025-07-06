@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center">
               <span className="text-2xl font-bold text-blue-600 dark:text-blue-400">
-                TaskManager
+                Chris Manager
               </span>
             </div>
             <p className="mt-4 text-gray-600 dark:text-gray-400 max-w-md">
@@ -91,7 +91,7 @@ const Footer = () => {
         
         <div className="mt-8 border-t border-gray-200 dark:border-gray-700 pt-8">
           <p className="text-center text-gray-500 dark:text-gray-400">
-            © {new Date().getFullYear()} TaskManager. Built with React & Tailwind CSS.
+            © {new Date().getFullYear()} Chris Manager. Built with React & Tailwind CSS.
           </p>
         </div>
       </div>
